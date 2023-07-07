@@ -27,7 +27,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 
-![image](https://github.com/CopaceticWill/post-install-config/assets/137100082/d5dae9f3-5fc3-48dd-bf30-99a6d309497a)
+![image](https://github.com/Kermini/post-install-config/assets/138714889/bd96d84c-2d46-4e6e-914e-8477c946d72a)
+
 
 </p>
 <p>
@@ -38,7 +39,8 @@ In this image, I configured Roles, Departments, and Teams to begin our workflow.
 
 <p>
 
-![image](https://github.com/CopaceticWill/post-install-config/assets/137100082/e0503c99-b00c-431e-abe4-61bc5abdb696)
+![image](https://github.com/Kermini/post-install-config/assets/138714889/b3f39b48-d2c2-4a87-92f3-e0a066bac2e4)
+
 
 </p>
 <p>
@@ -52,7 +54,8 @@ In this portion, I reviewed and configured the SLA expectation by using the tier
 
 <p>
 
-![image](https://github.com/CopaceticWill/post-install-config/assets/137100082/c72ed192-f452-48c3-b1cb-5867d5ede187)
+![image](https://github.com/Kermini/post-install-config/assets/138714889/1c464632-1867-4001-b1e3-a27d0d46ac6e)
+
   
 </p>
 <p>
